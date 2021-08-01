@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritik Patel
-- 👀 I’m a software Engineer at Mindtree. 
+- 👀 I’m a Software Engineer at Mindtree. 
 - 🌱 I’m currently working on my technical skills.
 - 💞️ I’m looking to collaborate on github to help you to sharpen your skills.
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/ritikpatel07/) | [Instagram](https://www.instagram.com/ritikpatel07_/)
